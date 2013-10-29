@@ -4,7 +4,6 @@
 *
 * @author aligo <aligo_x@163.com>
 * @link http://www.php.com/
-* @copyright Copyright &copy; 2009 Leng Sheng Hong
 * @license http://www.php.com/license
 *
 */

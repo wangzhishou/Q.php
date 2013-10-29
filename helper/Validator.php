@@ -2,9 +2,7 @@
 /**
  * Validator class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -105,7 +103,6 @@
  * $error = Food::_validate($f);
  * </code>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Validator.php 1000 2009-08-30 11:37:22
  * @package .helper
  * @since 1.2

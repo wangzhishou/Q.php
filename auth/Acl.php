@@ -2,9 +2,7 @@
 /**
  * Acl class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -62,7 +60,6 @@
  * Q::acl()->defaultFailedRoute = '/error';
  * </code>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Acl.php 1000 2009-08-23 20:46:49
  * @package .auth
  * @since 1.1

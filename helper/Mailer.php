@@ -5,7 +5,6 @@
  * @package .helper
  * @author Milos Kovacki <kovacki@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 

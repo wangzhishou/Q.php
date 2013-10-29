@@ -2,9 +2,7 @@
 /**
  *  class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  * @version $Id: WebApp.php 1000 2009-06-22 18:27:22
  * @package 
@@ -17,7 +15,6 @@
  * You can access  in every class to retrieve configuration settings,
  * DB connections, application properties, logging, loader utilities and etc.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: .php 1000 2009-07-7 18:27:22
  * @package 
  * @since 1.0
@@ -569,9 +566,7 @@ class Q {
 /**
  * Config class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -585,7 +580,6 @@ class Q {
  * eg. <code>$config['my_setting_here'] = 'example';</code>
  * </p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Config.php 1000 2009-07-7 18:27:22
  * @package .app
  * @since 1.0
@@ -815,9 +809,7 @@ class Config{
 /**
  * WebApp class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -829,7 +821,6 @@ class Config{
  *
  * <p>This class is tightly coupled with UriRouter.</p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: WebApp.php 1000 2009-07-7 18:27:22
  * @package .app
  * @since 1.0
@@ -1293,9 +1284,7 @@ class WebApp{
 /**
  * UriRouter class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -1433,7 +1422,6 @@ class WebApp{
  *
  * <p>See http://php.com/doc/guide/uri-routing for information in configuring Routes</p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: .php 1000 2009-07-7 18:27:22
  * @package .uri
  * @since 1.0
@@ -2085,9 +2073,7 @@ class UriRouter{
 /**
  * Controller class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -2139,7 +2125,6 @@ class UriRouter{
  *
  * You still have a lot of freedom to name your methods and properties other than names mentioned.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Controller.php 1000 2009-07-7 18:27:22
  * @package .controller
  * @since 1.0

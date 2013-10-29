@@ -2,9 +2,7 @@
 /**
  * XCache class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -12,7 +10,6 @@
 /**
  * XCache provides caching methods utilizing XCache.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: XCache.php 1000 2009-08-22 19:36:10
  * @package .cache
  * @since 1.1

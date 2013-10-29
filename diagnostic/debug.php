@@ -2,9 +2,7 @@
 /**
  * Diagnostic debug file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  * @version $Id: debug.php 1000 2009-10-11 18:27:22
  * @package .diagnostic
@@ -14,7 +12,6 @@
 /**
  * Provides the framework a debugging view functionalities for viewing errors, call stack, context and exceptions.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: debug.php 1000 2009-10-11 18:27:22
  * @package .diagnostic
  * @since 1.3

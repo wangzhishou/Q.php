@@ -2,16 +2,13 @@
 /**
  * GdImage class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
 /**
  * A helper class that helps to manage images, upload, resize, create thumbnails, crop images, etc.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: GdImage.php 1000 2009-08-19 21:37:38
  * @package .helper
  * @since 1.1

@@ -2,9 +2,7 @@
 /**
  * Log class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -14,7 +12,6 @@
  * <p>Log various messages type with filters including log levels and log categories.
  * Use LogWriter to write logs into files. You can output the log message to the debugger tool for development purpose.</p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Log.php 1000 2009-07-7 18:27:22
  * @package .logging
  * @since 1.0

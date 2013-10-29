@@ -2,9 +2,7 @@
 /**
  * SiteMagic class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -16,7 +14,6 @@
  *
  * <p>SiteMagic also generates sitemap(routes.conf.php) and some features for development use.</p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: SiteMagic.php 1000 2009-08-06 17:10:12
  * @package .app
  * @since 1.1

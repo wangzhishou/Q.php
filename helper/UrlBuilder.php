@@ -2,16 +2,13 @@
 /**
  * UrlBuilder class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
 /**
  * A helper class that helps generate URL from routes.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: UrlBuilder.php 1000 2009-08-4 11:17:22
  * @package .helper
  * @since 1.1

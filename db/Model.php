@@ -2,9 +2,7 @@
 /**
  * Model class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -59,7 +57,6 @@
  * </code>
  * Please check the database demo MainController's test() method for some example usage.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Model.php 1000 2009-08-27 10:28:56
  * @package .db
  * @since 1.2

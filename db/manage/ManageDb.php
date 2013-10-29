@@ -5,7 +5,6 @@
  *
  * @author Richard Myers <richard.myers@hotmail.co.uk>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  * @package .db
  * @since 1.3

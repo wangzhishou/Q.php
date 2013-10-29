@@ -2,9 +2,7 @@
 /**
  * RestClient class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -29,7 +27,6 @@
  *      echo "<pre>Request unsuccessful, error {$client->resultCode()} return";
  * }
  * </code>
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: RestClient.php 1000 2009-07-7 18:27:22
  * @package .helper
  * @since 1.0

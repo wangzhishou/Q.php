@@ -2,7 +2,6 @@
 /**
  * File class file.
  * @package .helper
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
  * @copyright Copyright &copy; 2009-2010 Leng Sheng Hong
  * @license http://www.php.com/license

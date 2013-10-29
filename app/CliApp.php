@@ -1,14 +1,5 @@
 <?php
 /**
- * CliApp class file.
- *
- * @author Richard Myers <richard.myers@hotmail.co.uk>
- * @link http://www.php.com/
- * @copyright Copyright &copy; 2011 Leng Sheng Hong
- * @license http://www.php.com/license
- */
-
-/**
  * CliApp for CLI application usage
  * @author Richard Myers <richard.myers@hotmail.co.uk>
  * @package .app

@@ -2,9 +2,7 @@
 /**
  * WebApp class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -16,7 +14,6 @@
  *
  * <p>This class is tightly coupled with UriRouter.</p>
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: WebApp.php 1000 2009-07-7 18:27:22
  * @package .app
  * @since 1.0
@@ -43,8 +40,7 @@ class WebApp{
     public function routeTo(){
         Q::loadCore('uri/UriRouter');
         $router = new UriRouter;
-        $routeRs = $router->execute($this->route,Q::conf()->SUBFOLDER);
-
+        $routeRs = $router->execute($this->route, Q::conf()->SUBFOLDER);
         if($routeRs[0]!==null && $routeRs[1]!==null){
             //dispatch, call Controller class
             require_once Q::conf()->BASE_PATH ."controller/Controller.php";

@@ -2,9 +2,7 @@
 /**
  * SmartModel class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -69,7 +67,6 @@
  *
  * Please check the database demo MainController's test() method for some example usage.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: SmartModel.php 1000 2009-08-28 11:43:26
  * @package .db
  * @since 1.2

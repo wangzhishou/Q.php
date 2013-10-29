@@ -2,7 +2,6 @@
 /**
  * Timezone class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
  * @copyright Copyright &copy; 2010 Leng Sheng Hong
  * @license http://www.php.com/license
@@ -11,7 +10,6 @@
 /**
  * A helper class for PHP Timezones.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Timezone.php 1000 2010-12-10 09:37:08
  * @package .helper
  * @since 1.3

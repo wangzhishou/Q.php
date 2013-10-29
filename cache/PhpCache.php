@@ -2,9 +2,7 @@
 /**
  * PhpCache class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
@@ -12,7 +10,6 @@
 /**
  * PhpCache provides file based caching which convert data into PHP variables.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: PhpCache.php 1000 2009-08-29 14:18:10
  * @package .cache
  * @since 1.2

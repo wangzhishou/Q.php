@@ -2,16 +2,13 @@
 /**
  * Loader class file.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @link http://www.php.com/
- * @copyright Copyright &copy; 2009 Leng Sheng Hong
  * @license http://www.php.com/license
  */
 
 /**
  * A class that provides shorthand functions to access/load files on the server.
  *
- * @author Leng Sheng Hong <darkredz@gmail.com>
  * @version $Id: Controller.php 1000 2009-07-7 18:27:22
  * @package .uri
  * @since 1.0
